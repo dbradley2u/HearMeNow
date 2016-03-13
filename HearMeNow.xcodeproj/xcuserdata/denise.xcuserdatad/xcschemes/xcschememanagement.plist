@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HearMeNow.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9A2976681C95A9BA00C5D4B0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9A29767C1C95A9BB00C5D4B0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9A2976871C95A9BB00C5D4B0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
